@@ -1,0 +1,64 @@
+--- Página 0 - estado 200
+0 978-1578700714 Mark A. Sportack - IP Routing Fundamentals
+1 978-0471778646 Stef Maruch Aahz Maruch - Python for Dummies
+2 000-0000000123 Cisco Systems Inc. - Linux for Networkers
+3 000-0000001123 Cisco Systems Inc. - NetAcad: 20 Years Of Online-Learning
+5 269393238 Antulio-Ignacio-Rodrigo-Manolo - Guía de Estudio para la Certificación CCNA Security V2.0
+6 269393238 Antulio-Ignacio-Rodrigo-Manolo - Redes Cisco. CCNA Routing y Switching.
+7 269393238 Antulio-Ignacio-Rodrigo-Manolo - Redes Avanzadas 1. DEVNET.
+8 4619127378235 María González - Automatización Avanzado
+9 6038157841092 Jorge Silva - Automatización Avanzado
+10 2257077482043 Diego González - Python Paso a Paso
+--- Página 1 - estado 200
+11 4841791678242 Diego Silva - Automatización Esencial
+12 8472061003525 Fernanda Muñoz - Redes Moderno
+13 5465606052317 Camila Muñoz - APIs en la Práctica
+14 5260980343712 Valentina Silva - Redes Paso a Paso
+15 1349712257338 Valentina Díaz - Automatización Avanzado
+16 5767979354891 María Silva - Linux Avanzado
+17 6307540961778 Valentina Contreras - Automatización en la Práctica
+18 7305044102513 Diego Pérez - Bases de Datos en la Práctica
+19 2315406344342 Juan Muñoz - Automatización Avanzado
+20 1430341557802 Camila Díaz - Automatización Avanzado
+--- Página 2 - estado 200
+21 5402543110082 Jorge Soto - Redes Avanzado
+22 4300317919629 Juan Díaz - Python Paso a Paso
+23 7284979222979 Pedro Pérez - Redes Moderno
+24 8804273919972 Juan Rojas - Seguridad para Principiantes
+25 9292430978774 Juan Muñoz - Python Moderno
+26 2269290545268 Jorge Contreras - Redes Moderno
+27 5602440521961 Fernanda Soto - Linux Avanzado
+28 2730933418504 Diego Silva - Linux Avanzado
+29 6257713570525 Jorge Soto - Linux Avanzado
+30 8105115692201 Fernanda González - APIs en la Práctica
+--- Página 3 - estado 200
+31 4286464396121 Juan Pérez - Redes para Principiantes
+32 3126354345996 Pedro González - Linux Avanzado
+33 2424301622721 Valentina Contreras - Automatización Avanzado
+34 6986370152241 Diego Silva - Python Moderno
+35 1384395537252 Valentina Pérez - APIs Esencial
+36 6023475852731 Juan Silva - Linux para Principiantes
+37 2893765301593 Juan Soto - Automatización Moderno
+38 8696204673862 Camila Soto - Python en la Práctica
+39 5192161760710 Jorge Muñoz - Automatización Moderno
+40 7593935374719 María Silva - Automatización Esencial
+--- Página 4 - estado 200
+41 4492836036924 Pedro Contreras - Cloud para Principiantes
+42 6473897413366 Fernanda Silva - Seguridad Avanzado
+43 9425704497053 Juan Pérez - APIs Moderno
+44 8464307379251 Valentina González - Python en la Práctica
+45 9493406228078 Valentina Silva - Seguridad en la Práctica
+46 8625230217951 Camila Silva - Seguridad para Principiantes
+47 4676910024723 Diego Soto - APIs para Principiantes
+48 6545254314395 Fernanda Rojas - Automatización Esencial
+49 8242406038197 Juan Díaz - Bases de Datos en la Práctica
+50 4065688400607 Juan Muñoz - Bases de Datos en la Práctica
+--- Página 5 - estado 200
+51 3445026813739 María Silva - APIs Moderno
+52 4293816235158 Diego Soto - Seguridad para Principiantes
+53 2654353984998 Diego González - Redes Avanzado
+54 1225536371071 Camila Silva - Redes en la Práctica
+55 3430286312073 Juan González - Cloud para Principiantes
+56 6867219696359 Juan Soto - Cloud en la Práctica
+57 7392328738837 Fernanda Contreras - Seguridad Esencial
+Total de libros: 57
